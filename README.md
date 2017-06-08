@@ -1,1 +1,1 @@
-# earth38_ksnctf
+# ksnctf 6 login
