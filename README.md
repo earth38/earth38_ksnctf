@@ -4,6 +4,7 @@
 * ksnctf 06 login
 * ksnctf 17 Math II
 * ksnctf 20 G00913
+* ksnctf 31 kanGacha
 
 ### 環境
 * Python 3.6.0 
